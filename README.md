@@ -23,7 +23,7 @@ https://github.com/Sergey-7/Libr/blob/%D0%A1urs_project/Cursovoy_project/cursovo
 https://github.com/Sergey-7/Libr/blob/CP_2/C_project/Cursovoy-final.ipynb
 
 
-##
+## Создание модели БД MYSQL интернет-магазина
 
 ### Курсовой проект по курсу «Основы реляционных баз данных. MYSQL». 
 
@@ -37,18 +37,15 @@ https://github.com/Sergey-7/Libr/blob/CP_2/C_project/Cursovoy-final.ipynb
 путем сложного запроса и преобразования их в таблицу DataFrame, которую можно использовать для обработки и подготовки данных
 для дальнейшего анализа и построения моделей Data Science - http://joxi.ru/KAxdnkysZNgMRA
 
-![image](https://user-images.githubusercontent.com/41647618/198285516-448fbe43-c807-42ba-a5b3-4edf037ceb4f.png)
+https://github.com/Sergey-7/MYSQL/tree/master/Cursovoy
 
+## Прогнозирования цен на недвижимость
 
+### Тренировочные соревнования на Kaggle (уровень Get started) House Prices - Advanced Regression Techniques    
 
-## Исследование надежности заемщиков
+Цель проекта — использование продвинутых алгоритмов обучения для прогнозирования цен на жилье. Обучающие данные содержат более 80 признаков. После очистки и преобразования данных построена модель для прогнозирования цен на недвижимость. 
 
-### Курсовой проект для курса "Библиотеки Python для Data Science: продолжение "  
+Использованные инструменты: Python, Pandas, Matplotlib, Numpy, Scikit, Skipy, StatsModels, Seaborn, Keras, TensorFlow.
 
-Цель проекта - проанализировать данные о клиентах банка, чтобы спрогнозировать невыполнение долговых обязательств по текущему кредиту. Данные содержат статистику о платежеспособности клиентов по кредитам. На основе данных после проведения EDA, очистки и обработки данных построена модель для прогнозирования клиентами банка невыполнения долговых обязательств по текущему кредиту. 
+https://github.com/Sergey-7/Kaggle_projects/blob/Project_1/House_test.ipynb
 
-Метрика качества — F1-score (sklearn.metrics.f1_score). 
-
-Использованные инструменты и библиотеки: Pandas, numpy, sklearn, scipy, matplotlib, seaborn, Catboost. 
-
-https://github.com/Sergey-7/Libr/blob/CP_2/C_project/Cursovoy-final.ipynb
