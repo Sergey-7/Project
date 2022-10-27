@@ -1,0 +1,27 @@
+source,target,weight
+Bodacious Broccoli Salad,Mexican Bean Salad,2
+Bodacious Broccoli Salad,Pasta Salad,2
+Caesar Salad Supreme,Frog Eye Salad,1
+Caesar Salad Supreme,Mexican Bean Salad,1
+Caesar Salad Supreme,Old Fashioned Potato Salad,1
+Caesar Salad Supreme,Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette,2
+Fresh Broccoli Salad,Jamie's Cranberry Spinach Salad,1
+Fresh Broccoli Salad,Mexican Bean Salad,1
+Frog Eye Salad,Caesar Salad Supreme,1
+Frog Eye Salad,Mexican Bean Salad,4
+Frog Eye Salad,Old Fashioned Potato Salad,1
+Frog Eye Salad,Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette,1
+Jamie's Cranberry Spinach Salad,Fresh Broccoli Salad,1
+Mexican Bean Salad,Bodacious Broccoli Salad,3
+Mexican Bean Salad,Caesar Salad Supreme,1
+Mexican Bean Salad,Fresh Broccoli Salad,1
+Mexican Bean Salad,Frog Eye Salad,2
+Mexican Bean Salad,Pasta Salad,5
+Old Fashioned Potato Salad,Caesar Salad Supreme,1
+Old Fashioned Potato Salad,Frog Eye Salad,1
+Pasta Salad,Bodacious Broccoli Salad,3
+Pasta Salad,Mexican Bean Salad,5
+Pasta Salad,Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette,2
+Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette,Caesar Salad Supreme,2
+Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette,Frog Eye Salad,1
+Quinoa Salad with Crispy Tofu Cubes and Lime Vinaigrette,Pasta Salad,1
