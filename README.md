@@ -87,3 +87,8 @@ https://colab.research.google.com/drive/1JryGt155e2CyzyS_I8dCdkirpVv4OJgA?usp=sh
 
 https://github.com/Sergey-7/Project/tree/master/Gephi_%26_parsing
 
+## Создание интернет-магазина в фреймворке Django
+
+Цель проекта - создать учебный сайт интернет-магазина во фреймворке Django. Используемые инструменты: Django 2.1, Python 3.6, SQLite.
+
+https://github.com/Sergey-7/mygeekshop
